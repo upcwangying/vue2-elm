@@ -31,7 +31,7 @@ git clone https://github.com/bailicangdu/vue2-elm.git  
 
 cd vue2-elm
 
-npm install
+npm install  或 yarn(推荐)
 
 npm run dev
 
@@ -73,7 +73,7 @@ npm run dev
 
 # 效果演示
 
-[查看demo请戳这里](http://cangdu.org:8001/)（请用chrome手机模式预览）
+[查看demo请戳这里](http://cangdu.org/elm/)（请用chrome手机模式预览）
 
 ### 移动端扫描下方二维码
 
