@@ -55,11 +55,11 @@ If you only do the front-end development, ignore this note.
 
 >  Development environment: macOS 10.12.3  Chrome 56  nodejs 6.10.0
 
->  Thanks for 辰妹子[@bailichen](https://github.com/bailichen)，to help complete the project，thank you🌹
+>  Thanks for 辰妹子[@bailichen](https://github.com/bailichen), [@iceRao](https://github.com/raoenhui)，to help complete the project，thank you🌹
 
 >  If you hava some question,you can post the question in Issues, and if you find some solution or some improvement，please pull request. 👍
 
->  The project communication group：528447162(QQ)
+>  [communication group](https://gitter.im/vue2-elm/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 >  Recommend a open source project about react and redux。[address](https://github.com/bailicangdu/react-pxq)
 
